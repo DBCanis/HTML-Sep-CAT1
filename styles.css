@@ -1,0 +1,176 @@
+body{
+    background-color: bisque;
+}
+
+.topnav{
+    background-color: #0c0d03;
+    height: 10vh;
+    width: 100%;
+    display: flex;
+}
+
+.heading-2{
+    color: white;
+    margin-left: 70px;
+    font-style: italic;
+    font-family: "DejaVu Math TeX Gyre";
+}
+
+.lists{
+    list-style-type: none;
+    display: flex;
+    padding: 5px;
+    padding-top: 15px;
+    margin-left: 600px;
+}
+
+.links{
+    text-decoration: none;
+    margin: 5px;
+    color: antiquewhite;
+    border-radius: 5px;
+    font-style: italic;
+}
+
+.main{
+    height: 100vh;
+    width: 100%;
+}
+
+.spool-top{
+    height: 33vh;
+    width: 100%;
+    background-color: darkgrey;
+    display: flex;
+}
+.p1{
+    height: 30vh;
+    width: 30%;
+    margin-left: 70px;
+}
+
+.p3{
+    font-size: 14px;
+    margin-top: -10px;
+}
+
+.img1{
+    height: 30vh;
+    width: 40%;
+    padding-top: 10px;
+    margin-left: 50px;
+}
+
+.btn{
+    background-color: #e6a51e;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    opacity: 0.8;
+}
+
+h2{
+    font-size: 15px;
+    margin-left: 4%;
+}
+
+.spool-btm{
+    height: 58vh;
+    width: 100%;
+    display: flex;
+    margin-top: -10px;
+}
+
+.container-left, .container-center, .container-right{
+    height: 58vh;
+    width: 25%;
+    margin-left: 4%;
+    border-radius: 5px;
+}
+
+.span-imgs{
+    height: 30vh;
+    width: 100%;
+    border-radius: 5px;
+}
+
+h3{
+    margin-top: 0px;
+}
+
+.p2{
+    font-size: 12px;
+    margin-top: -10px;
+}
+
+.footer{
+    height: 300px;
+    width: 100%;
+    background-color: #0c0d03;
+    display: flex;
+}
+
+h5{
+    color: white;
+}
+
+.p5{
+    font-size: 14px;
+    margin-top: 0px;
+}
+
+.posts, .spawn, .social{
+    height: 240px;
+    width: 30%;
+    margin: 3%;
+    color: blanchedalmond;
+    display: grid;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 10px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+.fa-rss {
+    background: #ff6600;
+    color: white;
+}
+
+.btn-foot{
+    background-color: beige;
+    color: #0c0d03;
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+}
+
+
+
+
